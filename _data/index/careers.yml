@@ -1,0 +1,16 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Ton Duc Thang University
+    i18n: tonducthang
+  desc:
+    detail: Teaching courses in the field of electrical, electronics and communication engineering. I delivered around 20 classes and the student passing rate is over 80% with adequate score. I also take part in research projects in coporate with professors within the electrical engineering department 
+    i18n: tonducthang_desc
+  date:
+    detail: July 2014 - March 2019
+    i18n: tonducthang_date
+  job:
+    detail: Lecturer
+    i18n: tonducthang_job
+  icon: fa-plus-square
+  present: true
